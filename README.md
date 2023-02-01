@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Conclude.AI**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kubernetes & Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahadF-cs](https://github.com/MahadF-cs)
 
