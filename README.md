@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahadF-cs](https://github.com/MahadF-cs)
 
-- 📝 I regularly write articles on my [website](https://mahadfarah.tech)
+- 📝 I regularly write articles on my [website](www.mahadfarah.tech)
 
 - 💬 Ask me about **Python, Javascript, React**
 
