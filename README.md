@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋🏿, I'm Mahad</h1>
 <h3 align="center">I like to bringing Ideas to life with code</h3>
 
-- 🔭 I’m currently working on **Conclude.AI**
+- 🔭 I’m currently working at **AI Decision Coordination**
 
 - 🌱 I’m currently learning **Kubernetes & Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahadF-cs](https://github.com/MahadF-cs)
 
 - 📝 I regularly write articles on my [website](http://www.mahadfarah.tech)
-
-- 💬 Ask me about **Python, Javascript, React**
 
 - 📫 How to reach me **me@mahadfarah.tech**
 
